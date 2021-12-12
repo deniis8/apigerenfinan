@@ -1,7 +1,7 @@
 { 
 	"saldo_invest": [ 
  		{ 
-			"saldo_atual": 735.49,
+			"saldo_atual": 626.93,
 			"valor_invest": 11823.43
 		} 
 	], 
@@ -14982,6 +14982,26 @@
 			"descri_lan": "PicPay", 
 			"saldo": 735.49, 
 			"ccusto": "Investimento Fixo", 
+			"status": "Pago" 
+ 		}, 
+		{ 
+			"id": 1474, 
+			"data": "2021-12-11", 
+			"hora": "15:30", 
+			"valor_lan": 75.56, 
+			"descri_lan": "Fechadura da porta", 
+			"saldo": 659.93, 
+			"ccusto": "Móveis/Acessórios para casa", 
+			"status": "Pago" 
+ 		}, 
+		{ 
+			"id": 1475, 
+			"data": "2021-12-11", 
+			"hora": "16:10", 
+			"valor_lan": 33, 
+			"descri_lan": "Ração", 
+			"saldo": 626.93, 
+			"ccusto": "Animais", 
 			"status": "Pago" 
  		} 
 	] 
